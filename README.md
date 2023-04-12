@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open Learning Exchange as a Frontend Developer.<br>🌱 I’m currently learning three.js<br>💬 Ask me about JavaScript, React.js or Frontend related tech<br>
+🔭 I’m currently working on Open Learning Exchange as a Frontend Developer.<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about JavaScript, React.js or Frontend related tech<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ram-kumar-shrestha&icon=8&color=0)](https://visitcount.itsvg.in)
